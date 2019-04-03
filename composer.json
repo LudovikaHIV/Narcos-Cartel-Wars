@@ -1,0 +1,21 @@
+{
+    "name": "narcos-cartel-wars-hack/narcos-cartel-wars-hack-mod-apk-get-unlimited-gold",
+    "description": "Narcos Cartel Wars Hack Mod APK Get Unlimited Gold Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Narcos Cartel Wars",
+            "homepage": "http://narcos-cartel-wars.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
